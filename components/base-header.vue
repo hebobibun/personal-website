@@ -17,22 +17,22 @@
 
     <div class="flex items-center lg:order-2">
       <div class="hidden sm:flex gap-x-3 items-center">
-        <a href="https://twitter.com/haythamasalama" target="_blank">
+        <a href="https://twitter.com/hebobibun" target="_blank">
           <IconTwitter class="fill-white hover:fill-primary" />
         </a>
-        <a href="https://github.com/haythamasalama" target="_blank">
+        <a href="https://github.com/hebobibun" target="_blank">
           <IconGithub class="fill-white hover:fill-primary" />
         </a>
-        <a href="https://www.linkedin.com/in/haythamasalama" target="_blank">
+        <a href="https://www.linkedin.com/in/mhammadhabibullah" target="_blank">
           <IconLinkedin class="fill-white hover:fill-primary" />
         </a>
-        <a href="https://www.medium.com/@haythamasalama" target="_blank">
+        <a href="https://www.medium.com/@hebobibun" target="_blank">
           <IconMedium class="fill-white hover:fill-primary w-7 h-7" />
         </a>
-        <a href="https://www.instagram.com/haythamasalama" target="_blank">
+        <a href="https://www.instagram.com/hebobibun" target="_blank">
           <IconInstagram class="fill-white hover:fill-primary" />
         </a>
-        <a href="https://www.youtube.com/@haythamasalama" target="_blank">
+        <a href="https://www.youtube.com/@hebobibun" target="_blank">
           <IconYoutube class="fill-white hover:fill-primary" />
         </a>
       </div>

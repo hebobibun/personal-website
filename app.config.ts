@@ -1,9 +1,9 @@
 export default defineAppConfig({
-  title: 'Haytham A. Salama  | Software Engineer',
+  title: 'Muhammad Habibullah  | Software Engineer',
   description: 'Full-Stack Engineer - Laravel, Vuejs, Nuxtjs, Tawillindcss',
-  keywords: 'Haytham Salama, Software Engineer, Full-Stack Developer, Full-Stack Engineer, Software Engineering',
+  keywords: 'Muhammad Habibullah, Software Engineer, Full-Stack Developer, Full-Stack Engineer, Software Engineering',
   author: {
-    name: 'Haytham A. Salama'
+    name: 'Muhammad Habibullah'
   },
   menus: {
     header: [

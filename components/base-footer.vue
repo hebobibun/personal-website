@@ -12,29 +12,29 @@
     <Navbar :menus="menus" class="grid grid-flow-row md:w-auto md:grid-flow-col justify-center items-center text-gray-400 grid-cols-3 gap-5 w-full text-center" />
 
     <div class="flex gap-x-3 items-center my-6">
-      <a href="https://twitter.com/haythamasalama" target="_blank">
+      <a href="https://twitter.com/hebobibun" target="_blank">
         <IconTwitter class="fill-white hover:fill-primary" />
       </a>
-      <a href="https://github.com/haythamasalama" target="_blank">
+      <a href="https://github.com/hebobibun" target="_blank">
         <IconGithub class="fill-white hover:fill-primary" />
       </a>
-      <a href="https://www.linkedin.com/in/haythamasalama" target="_blank">
+      <a href="https://www.linkedin.com/in/mhammadhabibullah" target="_blank">
         <IconLinkedin class="fill-white hover:fill-primary" />
       </a>
-      <a href="https://www.medium.com/@haythamasalama" target="_blank">
+      <a href="https://www.medium.com/@hebobibun" target="_blank">
         <IconMedium class="fill-white hover:fill-primary w-7 h-7" />
       </a>
-      <a href="https://www.instagram.com/haythamasalama" target="_blank">
+      <a href="https://www.instagram.com/heibob.jpg" target="_blank">
         <IconInstagram class="fill-white hover:fill-primary" />
       </a>
-      <a href="https://www.youtube.com/@haythamasalama" target="_blank">
+      <a href="https://www.youtube.com/@hebobibun" target="_blank">
         <IconYoutube class="fill-white hover:fill-primary" />
       </a>
     </div>
 
     <div class="flex text-center">
       <p>
-        © 2022 - {{ new Date().getFullYear() }}  all rights reserved. made with <span class="text-red-500">&#10084;&#65039;</span> by Haytham Salama
+        © 2022 - {{ new Date().getFullYear() }}  all rights reserved. made with <span class="text-red-500">&#10084;&#65039;</span> by Muhammad Habibullah
       </p>
     </div>
   </footer>

@@ -34,14 +34,14 @@
     <div>
       <img
         class="lg:mt-4 rounded-full w-[180px] h-[180px]"
-        src="/images/profile.jpeg"
-        alt="Haytham A. Salama"
+        src="/images/pp.png"
+        alt="Muhammad Habibullah"
       >
     </div>
 
     <div class="flex flex-col mt-4 lg:ml-10 lg:w-2/5 text-center">
       <h1 class="text-2xl md:text-4xl xl:text-5xl font-bold text-primary-gradient lg:text-left">
-        Haytham A. Salama
+        Muhammad Habibullah
       </h1>
       <p class="text-white text-xl mt-2 lg:text-left">
         Software Engineer

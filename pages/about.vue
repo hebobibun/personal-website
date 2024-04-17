@@ -80,7 +80,7 @@
       <h3 class="text-2xl sm:text-4xl font-bold text-white mt-4 gaxp-x-1 sm:mt-0 flex-wrap">
         Hi 👋 , I'm
         <span class="text-primary-gradient">
-          Haytham A. Salama
+          Muhammad Habibullah
         </span>
       </h3>
 
@@ -93,8 +93,8 @@
     <div class="flex order-1 sm:order-2 sm:w-2/5 sm:justify-center">
       <img
         class="w-48 rounded-full shadow-lg hover:scale-105 hover:shadow-2xl transition-primary"
-        src="https://avatars.githubusercontent.com/u/37311945?v=4"
-        alt="Haytham A. Salama"
+        src="/images/pp.png"
+        alt="Muhammad Habibullah"
       >
     </div>
   </section>
@@ -136,7 +136,7 @@
       v-bind="experience"
     />
 
-    <Alert to="https://www.linkedin.com/in/haythamasalama/" title="Check My Linkedin Account" class="mt-4">
+    <Alert to="https://www.linkedin.com/in/mhammadhabibullah/" title="Check My Linkedin Account" class="mt-4">
       <template #leading>
         <IconLinkedin class="fill-white" />
       </template>
@@ -147,11 +147,11 @@
     <SubTitle>Education</SubTitle>
 
     <h4 class="text-primary-gradient font-bold capitalize mt-4">
-      Al Azhar University - Palestine
+      Sumbawa Univ of Technology - Indonesia
     </h4>
     <h4>Bachelor of Engineering - Software Engineering</h4>
     <h4 class="text-sm">
-      Aug 2019 - May 2024
+      Aug 2015 - Aug 2019
     </h4>
   </section>
 </template>

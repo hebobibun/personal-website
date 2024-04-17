@@ -3,7 +3,7 @@
   const route = useRoute();
 
   useHead({
-    titleTemplate: () => (route.meta?.title ? `${route.meta?.title} | Haytham Salama` : app.title),
+    titleTemplate: () => (route.meta?.title ? `${route.meta?.title} | Muhammad Habibullah` : app.title),
     link: [{ rel: 'icon', type: 'image/png', href: '/images/icon.jpg' }],
     meta: [
       { hid: 'robots', name: 'robots', content: 'index, follow' },
@@ -11,7 +11,7 @@
       { hid: 'description', name: 'description', content: app.description },
       { hid: 'keywords', name: 'keywords', content: app.keywords },
       { hid: 'og:site_name', property: 'og:site_name', content: app.author.name },
-      { hid: 'og:url', property: 'og:url', content: 'https://haythamasalama.me' },
+      { hid: 'og:url', property: 'og:url', content: 'https://bob.algohaven.com' },
       { hid: 'og:description', property: 'og:description', content: app.description },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       { hid: 'og:image', property: 'og:image', content: '/images/opengraph-logo.jpg' }
